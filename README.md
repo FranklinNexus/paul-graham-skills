@@ -212,6 +212,14 @@ paul-graham-skills/
 
 ---
 
+## 参考语料
+
+本仓库是 **PG 公开文章的行为蒸馏**（`SKILL.md` / `PLAYBOOK.md`），不是全文库。  
+若需阅读 **Paul Graham 中文译文**，见独立文本仓库 [founder-blog-zh → `paul-graham/`](https://github.com/FranklinNexus/founder-blog-zh/tree/main/paul-graham)：仅收录 PG，与 Sam、张一鸣分目录存放。  
+材料均为**互联网上的公开记录**；译文见该库 [NOTICE.md](https://github.com/FranklinNexus/founder-blog-zh/blob/main/NOTICE.md)。
+
+---
+
 ## 边界说明
 
 - 这是**蒸馏后的行为框架**，不是 PG 文章镜像，不包含长文引用或原文重建。
