@@ -212,15 +212,6 @@ paul-graham-skills/
 
 ---
 
-## FAQ
-
-### Contributors 里为什么还有 Cursor Agent？
-
-早期提交被 Cursor 自动加了 `Co-authored-by: Cursor <cursoragent@cursor.com>`，GitHub 会据此显示第二贡献者。  
-**现已从历史中移除**。网页仍显示两人时，请 **硬刷新** 或等待 GitHub 缓存更新。
-
----
-
 ## 边界说明
 
 - 这是**蒸馏后的行为框架**，不是 PG 文章镜像，不包含长文引用或原文重建。
