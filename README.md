@@ -21,26 +21,9 @@
 从 PG 式创业判断、用户痴迷、独立思考、Maker 时间与清晰写作中提炼而成，  
 封装为 `SKILL.md` + `PLAYBOOK.md`：能路由问题、识别瓶颈、给出可验证的下一步。
 
-[为什么更好](#为什么这套-skills-更好) · [看效果](#效果示例) · [安装](#安装) · [蒸馏了什么](#蒸馏了什么) · [FAQ](#faq)
+[看效果](#效果示例) · [安装](#安装) · [蒸馏了什么](#蒸馏了什么) · [FAQ](#faq)
 
 </div>
-
----
-
-## 为什么这套 Skills 更好
-
-市面上已有 [Paul Graham Skill](https://github.com/alchaincyf/paul-graham-skill) 等作品，多强调 **扮演 PG 说话、金句氛围、调研材料展示**。  
-本仓库的差异：
-
-| 维度 | 语录 / 扮演型 | **PG.skill（本仓库）** |
-| --- | --- | --- |
-| 核心 | 像 PG 写作文 | 像 PG **审想法**：异常、用户爱、Maker 时间 |
-| 输出 | 长段英文感叙事 | 诊断 + 瓶颈 + **Next 7 Days** |
-| 深度 | 单 Skill 为主 | `SKILL.md` + `PLAYBOOK.md`（想法/写作/职业/会议） |
-| 边界 | 易幻觉成「PG 本尊」 | **不扮演**、不引用重建原文 |
-| 工程 | 展示向 | `install.ps1` · `validate.py` · 多 Runtime |
-
-你仍然可以从其他 PG Skill 获得灵感；**若你要的是「下周该做什么」而不是「像 PG 一样说一段话」**，更适合用本仓库。
 
 ---
 
@@ -229,29 +212,12 @@ paul-graham-skills/
 
 ---
 
-## 同源系列
-
-同一套蒸馏方法拆成的独立 Skill 仓库，可按需只装一个：
-
-| Skill | 领域 | 仓库 |
-| --- | --- | --- |
-| **Kehan.skill** | 早期融资 · 年轻创始人 · N1 陪跑 | [kehan-skills](https://github.com/FranklinNexus/kehan-skills) |
-| **PG.skill** | 创业想法 · 写作 · Maker 时间 | **本仓库** |
-| **Sam.skill** | 野心 · 复利 · 增长 · AI 战略 | [sam-altman-skills](https://github.com/FranklinNexus/sam-altman-skills) |
-| **ZYM.skill** | 用户价值 · 理性决策 · 组织设计 | [zhang-yiming-skills](https://github.com/FranklinNexus/zhang-yiming-skills) |
-
----
-
 ## FAQ
 
 ### Contributors 里为什么还有 Cursor Agent？
 
 早期提交被 Cursor 自动加了 `Co-authored-by: Cursor <cursoragent@cursor.com>`，GitHub 会据此显示第二贡献者。  
-**现已从历史中移除**；API 上 Contributors 只剩 `FranklinNexus`。网页仍显示两人时，请 **硬刷新** 或等待 GitHub 缓存更新。
-
-### 和 alchaincyf/paul-graham-skill 怎么选？
-
-对方偏「PG 人格与表达还原」；本仓库偏 **创业判断与写作结构的工作流**。可以都装，按任务切换。
+**现已从历史中移除**。网页仍显示两人时，请 **硬刷新** 或等待 GitHub 缓存更新。
 
 ---
 
