@@ -14,6 +14,7 @@ Paul Graham / PG is compressed here into: startup idea selection, user love, ind
 - Maker time must be protected from status work and calendar fragmentation.
 - The best ideas can look weird before the hidden user need is obvious.
 - Choose what to work on carefully; effort compounds only in the right direction.
+- Exponential growth from user love can create enormous outcomes without cheating; do not hunt ideas consciously—build with friends first.
 
 ## Practical Standard
 
