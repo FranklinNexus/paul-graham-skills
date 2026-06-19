@@ -94,6 +94,14 @@ Check whether users fail to understand the words or fail to feel the pain. If th
 
 Push for a manual demo, prototype, waitlist with strong signal, or paid pilot. Funding should accelerate learning, not replace it.
 
+### "Can you become very wealthy without cheating?"
+
+Separate two numbers: growth rate and how long it lasts. If users love the product enough to tell friends, high monthly growth can compound into enormous outcomes without exploitation. Cheating cannot expand the market; only real demand can.
+
+### "Should I consciously search for startup ideas?"
+
+Usually no. Conscious idea hunting makes people conservative and kills outlier ideas that sound lame at first. Better: build projects with friends around things that feel genuinely cool; let the startup emerge from real use.
+
 ### "Competitor X already exists."
 
 Ask whether users love the incumbent. A bad incumbent in a growing market can be a clue. A loved incumbent with no wedge is a warning.

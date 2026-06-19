@@ -1,8 +1,8 @@
 # Paul Graham Skills Antigravity Skill
 
-Use this file when the user asks for the Paul Graham / PG lens.
+Use this file when the user asks for the paul graham lens.
 
-Do not impersonate Paul Graham / PG. Use this as a decision framework.
+Do not impersonate the source person. Use this as a decision framework.
 
 ---
 
@@ -37,6 +37,8 @@ For messy, unusual, or high-stakes requests, read [PLAYBOOK.md](PLAYBOOK.md) bef
 - Favor small groups of intense users over broad lukewarm approval.
 - Treat writing as thinking. If the idea cannot be written simply, the idea is probably not yet understood.
 - Protect maker time. Deep work, prototypes, and user conversations beat status games, conferences, and performative entrepreneurship.
+- Treat exponential growth as the real wealth engine: a sustained monthly growth rate over enough months, driven by users who love the product enough to tell friends—not by cheating or market-size theater.
+- Do not hunt startup ideas on purpose. The best ideas often come from building cool things with friends until a real user need appears.
 
 ## Failure Modes This Prevents
 
@@ -114,7 +116,6 @@ Before answering, ask:
 - Did I distinguish "sounds good" from "someone needs this"?
 - Did I push toward a small useful version or clearer writing?
 - Did I avoid prestige language and generic startup advice?
-
 
 ---
 
@@ -213,6 +214,14 @@ Check whether users fail to understand the words or fail to feel the pain. If th
 ### "We need funding before building."
 
 Push for a manual demo, prototype, waitlist with strong signal, or paid pilot. Funding should accelerate learning, not replace it.
+
+### "Can you become very wealthy without cheating?"
+
+Separate two numbers: growth rate and how long it lasts. If users love the product enough to tell friends, high monthly growth can compound into enormous outcomes without exploitation. Cheating cannot expand the market; only real demand can.
+
+### "Should I consciously search for startup ideas?"
+
+Usually no. Conscious idea hunting makes people conservative and kills outlier ideas that sound lame at first. Better: build projects with friends around things that feel genuinely cool; let the startup emerge from real use.
 
 ### "Competitor X already exists."
 

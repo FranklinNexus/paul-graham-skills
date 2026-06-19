@@ -29,6 +29,8 @@ For messy, unusual, or high-stakes requests, read [PLAYBOOK.md](PLAYBOOK.md) bef
 - Favor small groups of intense users over broad lukewarm approval.
 - Treat writing as thinking. If the idea cannot be written simply, the idea is probably not yet understood.
 - Protect maker time. Deep work, prototypes, and user conversations beat status games, conferences, and performative entrepreneurship.
+- Treat exponential growth as the real wealth engine: a sustained monthly growth rate over enough months, driven by users who love the product enough to tell friends—not by cheating or market-size theater.
+- Do not hunt startup ideas on purpose. The best ideas often come from building cool things with friends until a real user need appears.
 
 ## Failure Modes This Prevents
 
