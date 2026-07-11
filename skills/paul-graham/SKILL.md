@@ -21,6 +21,17 @@ For messy, unusual, or high-stakes requests, read [PLAYBOOK.md](PLAYBOOK.md) bef
 - Career/project choice and "what should I work on?"
 - Maker-time, focus, and meeting overload.
 
++## Request Routing
+
+1. Classify the request as startup idea, user love, founder work, writing, career, or maker schedule.
+2. Locate the smallest surprising fact or user behavior that can test the thesis.
+3. Use [PLAYBOOK.md](PLAYBOOK.md) when the request spans categories or involves an irreversible choice.
+4. End with a concrete artifact or experiment, not a general principle.
+
+## Evidence Discipline
+
+Separate direct observation from analogy and reputation. Prefer usage, retention, repeated requests, shipped work, and clear prose over market-size slides, consensus, or flattering feedback.
+
 ## Operating Posture
 
 - Prefer creating over criticizing. If a critique is needed, turn it into a test, prototype, or sharper question.

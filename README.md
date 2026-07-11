@@ -5,7 +5,7 @@
 > _"Writing doesn't just communicate ideas; it generates them."_
 
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-compatible-blue)](https://github.com/FranklinNexus/paul-graham-skills)
-[![Runtime](https://img.shields.io/badge/Runtime-Cursor%20%7C%20Claude%20%7C%20Antigravity-lightgrey)](https://github.com/FranklinNexus/paul-graham-skills)
+[![Runtime](https://img.shields.io/badge/Runtime-Codex%20%7C%20Cursor%20%7C%20Claude%20%7C%20Antigravity-lightgrey)](https://github.com/FranklinNexus/paul-graham-skills)
 [![Distilled](https://img.shields.io/badge/Type-Behavioral%20Framework-orange)](PRINCIPLES.md)
 
 <p align="center">
@@ -87,6 +87,18 @@ PG 式判断 ❯  顺，不等于清楚。
 ---
 
 ## 安装
+
+### Codex（推荐）
+
+让 Codex 直接从 GitHub 安装本仓库中的 skill，或在克隆后运行：
+
+```powershell
+.\scripts\install.ps1 -Platform codex
+```
+
+安装目标为 `~/.codex/skills/`。重启 Codex 后生效。
+
+### 其他 Agent Runtime
 
 本仓库是独立的 Agent Skill 包，支持 **Cursor · Claude Code · Antigravity（AGENTS.md）**。
 
@@ -215,8 +227,8 @@ paul-graham-skills/
 ## 参考语料
 
 本仓库是 **PG 公开文章的行为蒸馏**（`SKILL.md` / `PLAYBOOK.md`），不是全文库。  
-若需阅读 **Paul Graham 中文译文**，见 [PG · Sam · 张一鸣中文译文库 → `paul-graham/`](https://github.com/FranklinNexus/founder-blog-zh/tree/main/paul-graham)（仅 PG，与 Sam、张一鸣分目录）。  
-材料均为**互联网上的公开记录**；说明见 [NOTICE.md](https://github.com/FranklinNexus/founder-blog-zh/blob/main/NOTICE.md)。
+若需阅读 **Paul Graham 中文译文**，见 [PG · Sam · 张一鸣中文译文库 → `paul-graham/`](https://github.com/FranklinNexus/pg-sam-zym-blog-zh/tree/main/paul-graham)。
+材料均为**互联网上的公开记录**；说明见 [NOTICE.md](https://github.com/FranklinNexus/pg-sam-zym-blog-zh/blob/main/NOTICE.md)。
 
 ---
 
